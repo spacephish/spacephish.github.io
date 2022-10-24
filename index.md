@@ -28,10 +28,14 @@ If you use any of such resources, we kindly ask you to cite our paper (a preprin
 
 
 
-### Description
+### Demonstrative video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/06G24tM3SPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
 # Implementation
 
-[Access link](TBD)
+We submitted an Artifact of our paper to the ACSAC Artifact Evaluation, and we received a "Reusable" badge. Moreover, during the evaluation, the reviewers were able to replicate the results achieved in our paper. 
+
+We publicly release all the material (documentation, results and source-code) of our Artifact, which can be found in the dedicated [GitHub repository](https://github.com/hihey54/acsac22_spacephish).
