@@ -57,8 +57,8 @@ We submitted an Artifact of our paper to the ACSAC [Artifact Evaluation](https:/
 
 
 We publicly release all the material  of our Artifact. Specifically:
-* [GitHub repository](https://github.com/hihey54/acsac22_spacephish) (containing the source-code and instructions to replicate our results);
-* [Supplementary Document]({{ BASE_PATH }}/docs/ACSAC22_SpacePhish-supp.pdf) containing the detailed results the (including those on the competition-grade ML-PWD of [MLSEC](https://mlsec.io/));
-* [Preprint]({{ BASE_PATH }}/docs/ACSAC22_SpacePhish.pdf)) of the main paper.
+* [GitHub repository](https://github.com/hihey54/acsac22_spacephish), containing the source-code and instructions to replicate our results;
+* [Supplementary Document]({{ BASE_PATH }}/docs/ACSAC22_SpacePhish-supp.pdf) containing the detailed results the (including those on the competition-grade ML-PWD of [MLSEC](https://mlsec.io/);
+* [Preprint]({{ BASE_PATH }}/docs/ACSAC22_SpacePhish.pdf) of the main paper.
 
 Feel free to reach out to us! You can contact either [Giovanni Apruzzese](mailto:giovanni.apruzzese@uni.li) or [Ying Yuan](mailto:ying.yuan@studenti.unipd.it). You can also post a comment on the [discussion page](https://github.com/hihey54/acsac22_spacephish/discussions/) of the GitHub repository.
