@@ -6,19 +6,7 @@ description: Website for SpacePhish
 ---
 
 
-Welcome to the website related to the paper "_SpacePhish: The Evasion-space of Evasion Attacks against Phishing Website Detectors using Machine Learning_" accepted to [ACSAC22](https://www.acsac.org/). 
-
-If you use any of such resources, we kindly ask you to cite our paper  with the following BibTeX entry:
-```
-@inproceedings{apruzzese2022spacephish,
-  title={SpacePhish: The Evasion-space of Evasion Attacks against Phishing Website Detectors using Machine Learning},
-  author={Apruzzese, Giovanni and Conti, Mauro and Yuan, Ying},
-  booktitle={Proceedings of the Annual Computer Security Applications Conference (ACSAC)},
-  year={2022},
-  publisher={ACM, New York, USA},
-  doi={10.1145/3564625.3567980}
-} 
-```
+Welcome to the website related to the paper "_SpacePhish: The Evasion-space of Evasion Attacks against Phishing Website Detectors using Machine Learning_" accepted to [ACSAC22](https://www.acsac.org/).
 
 We will [present the paper](https://www.openconf.org/acsac2022/modules/request.php?module=oc_program&action=program.php&p=program) in Austin (TX, USA) on Wednesday, Dec. 7th, 2022 (@13:30)!
 
@@ -61,6 +49,17 @@ We publicly release all the material  of our Artifact. Specifically:
 * [Supplementary Document]({{ BASE_PATH }}/docs/ACSAC22_SpacePhish-supp.pdf) containing the detailed results the (including those on the competition-grade ML-PWD of [MLSEC](https://mlsec.io/);
 * [Preprint]({{ BASE_PATH }}/docs/ACSAC22_SpacePhish.pdf) of the main paper.
 
+If you use any of such resources, we kindly ask you to cite our paper  with the following BibTeX entry:
+```
+@inproceedings{apruzzese2022spacephish,
+  title={SpacePhish: The Evasion-space of Evasion Attacks against Phishing Website Detectors using Machine Learning},
+  author={Apruzzese, Giovanni and Conti, Mauro and Yuan, Ying},
+  booktitle={Proceedings of the Annual Computer Security Applications Conference (ACSAC)},
+  year={2022},
+  publisher={ACM, New York, USA},
+  doi={10.1145/3564625.3567980}
+} 
+```
 
 #### Contact
 Feel free to reach out to us! You can contact either [Giovanni Apruzzese](mailto:giovanni.apruzzese@uni.li) or [Ying Yuan](mailto:ying.yuan@studenti.unipd.it). You can also post a comment on the [discussion page](https://github.com/hihey54/acsac22_spacephish/discussions/) of the GitHub repository.
