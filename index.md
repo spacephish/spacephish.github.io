@@ -34,7 +34,7 @@ Our paper tackles the broad problem of adversarial attacks against Machine Learn
 * **(empirical) We perform a massive evaluation of evasion attacks against ML-PWD.** We make a fair comparison of attacks entailing perturbations crafted in different "spaces". We assess the robustness of 900 ML models (using diverse datasets, ML algorithms, and feature sets), and we derive statistically significant conclusions by assessing each of these against 1200 adversarial examples. 
   * **What did we find?** Our results show that, in some cases, _cheap perturbations_ (i.e., adding some fake links to the HTML) can induce a statistically significant degradation. Of course, perturbations in the feature space are more disruptive, but they require a compromise of the ML-PWD. Moreover, we also attack the competition-grade ML-PWD of a well-known evasion competition, [MLSEC](https://mlsec.io/). We found out that our "cheap" perturbations were enough to significantly decrease their confidence (sometimes by over 50%!).
 
-**So what?** The evaluations of *any* paper whose perturbations were crafted in the "feature-space" can be considered 100% reliable---under the condition that the attacker is "stronger" because they can access the _internal_ elements of a ML-PWD. Furthermore, the fact that _cheap perturbations_ are effective raises an important alarm: in the context of phishing websites, such perturbations are way more likely to appear in reality due to their low barrier of entry (with respect to traditional "gradient-based" techniques). 
+**So what?** The evaluations of *any* paper whose perturbations were crafted in the "feature-space" can be considered 100% reliable---under the condition that the attacker is stronger because they can access the _internal_ elements of a ML-PWD. Furthermore, the fact that _cheap perturbations_ are effective raises an important alarm: in the context of phishing websites, such perturbations are way more likely to appear in reality due to their low barrier of entry (compared to traditional "gradient-based" techniques). 
 
 ### Demonstrative video
 
@@ -53,7 +53,7 @@ You can see the results yourself in the video below!
 
 We submitted an Artifact of our paper to the ACSAC [Artifact Evaluation](https://www.acsac.org/2022/program/artifacts/), and we received a "Reusable" badge! Moreover, during the evaluation, the reviewers were able to replicate the results achieved in our paper. 
 
-<a href="https://www.acm.org/publications/policies/artifact-review-badging", target="_blank"><img src="{{ BASE_PATH }}/assets/artifacts_evaluated_reusable.png" alt="ACM Reusable Artifact" width="100"/></a>
+<a href="https://www.acm.org/publications/policies/artifact-review-badging" target="_blank"><img src="{{ BASE_PATH }}/assets/artifacts_evaluated_reusable.png" alt="ACM Reusable Artifact" width="100"/></a>
 
 
 We publicly release all the material  of our Artifact. Specifically:
