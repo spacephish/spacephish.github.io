@@ -24,7 +24,7 @@ Our paper tackles the broad problem of adversarial attacks against Machine Learn
 
 **So what?** The evaluations of *any* paper whose perturbations were crafted in the "feature-space" can be considered 100% reliable---under the condition that the attacker is stronger because they can access the _internal_ elements of a ML-PWD. Furthermore, the fact that _cheap perturbations_ are effective raises an important alarm: in the context of phishing websites, such perturbations are way more likely to appear in reality due to their low barrier of entry (compared to traditional "gradient-based" techniques). 
 
-### Demonstrative Video
+### Demonstrative Video (2 minutes)
 
 **But what do we mean by _cheap perturbations_?** On the very last day of the MLSEC challenge, we recorded a demonstrative video showing the entire attack. Specifically:
 * from its conception ("what is the first thing that an attacker would do?" → probably a Google search!)...
