@@ -46,7 +46,7 @@ We submitted an Artifact of our paper to the ACSAC [Artifact Evaluation](https:/
 
 We publicly release all the material  of our Artifact. Specifically:
 * [GitHub repository](https://github.com/hihey54/acsac22_spacephish), containing the source-code and instructions to replicate our results;
-* [Supplementary Document]({{ BASE_PATH }}/docs/ACSAC22_SpacePhish-supp.pdf) containing the detailed results the (including those on the competition-grade ML-PWD of [MLSEC](https://mlsec.io/);
+* [Supplementary Document]({{ BASE_PATH }}/docs/ACSAC22_SpacePhish-supp.pdf) containing the complete results (including those on the competition-grade ML-PWD of [MLSEC](https://mlsec.io/));
 * [Preprint]({{ BASE_PATH }}/docs/ACSAC22_SpacePhish.pdf) of the main paper.
 
 If you use any of such resources, we kindly ask you to cite our paper  with the following BibTeX entry:
