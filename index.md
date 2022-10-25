@@ -20,6 +20,8 @@ If you use any of such resources, we kindly ask you to cite our paper (a preprin
 } 
 ```
 
+We will [present the paper](https://www.openconf.org/acsac2022/modules/request.php?module=oc_program&action=program.php&p=program) in Austin (TX, USA) on Wednesday, Dec. 7th, 2022 (@13:30)! 
+
 
 ---
 
@@ -38,7 +40,7 @@ TBD
 
 We submitted an Artifact of our paper to the ACSAC [Artifact Evaluation](https://www.acsac.org/2022/program/artifacts/), and we received a "Reusable" badge!. Moreover, during the evaluation, the reviewers were able to replicate the results achieved in our paper. 
 
-<img src="{{ BASE_PATH}}/assets/drawing.jpg" alt="drawing" width="200"/>
+<a href="https://www.acm.org/publications/policies/artifact-review-badging"><img src="{{ BASE_PATH }}/assets/artifacts_evaluated_reusable.png" alt="ACM Reusable Artifact" width="200"/></a>
 
 
 We publicly release all the material (documentation, results and source-code) of our Artifact, which can be found in the dedicated [GitHub repository](https://github.com/hihey54/acsac22_spacephish). For convenience, we also provide a direct link to the supplementary document that contains all the [detailed results]({{ BASE_PATH }}/docs/ACSAC22_SpacePhish-supp.pdf) (including those on the competition-grade ML-PWD of [MLSEC](https://mlsec.io/).)
