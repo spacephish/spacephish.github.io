@@ -52,7 +52,7 @@ We publicly release all the material  of our Artifact. Specifically:
 If you use any of such resources, we kindly ask you to cite our paper with the following BibTeX entry:
 ```
 @inproceedings{apruzzese2022spacephish,
-  title={SpacePhish: The Evasion-space of Evasion Attacks against Phishing Website Detectors using Machine Learning},
+  title={SpacePhish: The Evasion-space of Adversarial Attacks against Phishing Website Detectors using Machine Learning},
   author={Apruzzese, Giovanni and Conti, Mauro and Yuan, Ying},
   booktitle={Proceedings of the Annual Computer Security Applications Conference (ACSAC)},
   year={2022},
