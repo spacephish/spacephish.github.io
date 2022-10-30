@@ -13,7 +13,7 @@ We will [present the paper](https://www.openconf.org/acsac2022/modules/request.p
 
 ---
 
-### Summary: what did we do?
+### Summary: what did we do? (400 words)
 
 Our paper tackles the broad problem of adversarial attacks against Machine Learning (ML) systems---and specifically those for Phishing Website Detection (PWD). Put simply, we make two contributions: a conceptual one, and an empirical one.
 
@@ -22,7 +22,7 @@ Our paper tackles the broad problem of adversarial attacks against Machine Learn
 * **(empirical) We perform a massive evaluation of evasion attacks against ML-PWD.** We fairly compare attacks entailing perturbations crafted in different "spaces". We assess the robustness of 900 ML models (using diverse datasets, ML algorithms, and feature sets), and we derive statistically significant conclusions by assessing each of these against 1200 adversarial examples. 
   * **What did we find?** Our results show that _cheap perturbations_ (i.e., WsP with almost no knowledge of the ML-PWD) can induce small, but statistically significant degradations. Of course, perturbations in the "feature space" (i.e., PsP or MsP) are more disruptive, but they require a compromise of the ML-PWD. Moreover, we also attack the competition-grade ML-PWDs of [MLSEC](https://mlsec.io/). We found out that our _cheap perturbations_ were enough to decrease their confidence (sometimes by over 50%!).
 
-**So what?** The evaluations of *any* paper whose perturbations were crafted in the "feature-space" can be considered 100% reliable---under the condition that the attacker is stronger because they can access the _internal_ elements of an ML-PWD. Furthermore, _cheap perturbations_ being effective raise an important alarm: in the context of phishing websites, such perturbations are way more likely to appear in reality due to their low barrier of entry (compared to traditional "gradient-based" techniques). 
+**So what?** The evaluations of *any* paper whose perturbations were crafted in the "feature-space" can be considered 100% reliable---under the assumption that the attacker can access the _internal_ elements of an ML-based detector. Furthermore, _cheap perturbations_ being effective raise an important alarm: in the context of phishing websites, such perturbations are way more likely to appear in reality due to their low barrier of entry (compared to traditional "gradient-based" techniques). 
 
 ### Demonstrative Video (2 minutes)
 
